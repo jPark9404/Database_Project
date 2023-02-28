@@ -1,1 +1,1 @@
-# Database_Project
+# DB SQL/PL & C programming Project
